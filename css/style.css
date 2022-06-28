@@ -1,18 +1,12 @@
 body {
     background-color: #FEE140;
-    background-image: linear-gradient(45deg, #FEE140 0%, #FA709A 100%);
+    background-image: linear-gradient(90deg, #FEE140 0%, #FA709A 100%);
 }
 
 h1{
     color: red;
     font-size: 48px;
-    text-align: center;
-    
-}
-
-h1.text-focus-in {
-	-webkit-animation: text-focus-in 1s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
-	        animation: text-focus-in 1s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+    text-align: center;   
 }
 
 h2{
